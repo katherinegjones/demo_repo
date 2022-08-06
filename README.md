@@ -29,7 +29,6 @@ My favorite foods:
 * Wings
 * Burgers
 * Wood-fired pizza
-* Steak dinner
 
 # Section 3
 
