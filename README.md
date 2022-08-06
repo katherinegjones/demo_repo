@@ -16,10 +16,17 @@ A basic project for demonstrating git versioning
 
 # Section 1
 
-blah
+To link this remote repo to your local repo, use command
+`git remote add origin https://github.com/katherinegjones/demo_repo`
 
 # Section 2
 
-blah
+My favorite foods:
+
+* Tacos
+* Wings
+* Burgers
+* Wood-fired pizza
+* Steak dinner
 
 
