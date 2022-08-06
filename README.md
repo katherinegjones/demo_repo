@@ -8,6 +8,8 @@
 
 3. [Section 2](#section-2)
 
+4. [Section 3](#section-3)
+
 
 # Description
 
@@ -27,6 +29,8 @@ My favorite foods:
 * Wings
 * Burgers
 * Wood-fired pizza
-* Steak dinner
 
+# Section 3
+
+My favorite website is [Berkshire Hathaway](https://www.berkshirehathaway.com/)
 
