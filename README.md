@@ -29,7 +29,6 @@ My favorite foods:
 * Tacos
 * Wings
 * Burgers
-* Wood-fired pizza
 * Fried Chicken
 
 # Section 3
