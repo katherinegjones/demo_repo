@@ -8,6 +8,8 @@
 
 3. [Section 2](#section-2)
 
+4. [Section 3](#section-3)
+
 
 # Description
 
@@ -28,5 +30,11 @@ My favorite foods:
 * Burgers
 * Wood-fired pizza
 * Steak dinner
+
+# Section 3
+
+My favorite site for css is [CSS Tricks](https://css-tricks.com/)
+
+
 
 
