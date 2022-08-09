@@ -11,6 +11,7 @@
 4. [Section 3](#section-3)
 
 
+
 # Description
 
 A basic project for demonstrating git versioning
@@ -29,6 +30,7 @@ My favorite foods:
 * Wings
 * Burgers
 * Wood-fired pizza
+* Fried Chicken
 
 # Section 3
 
